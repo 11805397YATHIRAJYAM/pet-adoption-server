@@ -1,6 +1,6 @@
 ﻿import mongoose from 'mongoose';
 
-const ATLAS_URI = 'mongodb+srv://rajkumaryathirajyam_db_user:SyTW89AJGZki1old@cluster0.mb2zdhv.mongodb.net/pet_adoption?appName=Cluster0';
+const ATLAS_URI = 'mongodb://rajkumaryathirajyam_db_user:SyTW89AJGZki1old@cluster0.mb2zdhv.mongodb.net/pet_adoption?appName=Cluster0';
 
 console.log('Testing Atlas connection...');
 try {
